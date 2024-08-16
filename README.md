@@ -3,8 +3,8 @@ Project elaborates comparision between VAE and DCGAN
 
 #### NOTE
 This project is done as a part of course assignment for<br>
- Course : __IE 643: Deep Learning: Theory and Practice__ <br>
- Instructor :  __Prof. P Balamurugan__ at __IIT Bombay__
+ Course : __CS 726: Advanced Machine Learning__ <br>
+ Instructor :  __Prof. Sunita Sarwagi__ at __IIT Bombay__
 
 ## Description
 The project aims at understanding the generative paradigms of deep learning specifically Variational Auto Encoders (VAEs) and Generative Adversarial Networks (GANs), by implementing these architectures from scratch, training them and performing a comparitive study.
