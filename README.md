@@ -1,5 +1,5 @@
-# VAE_vs_DCGAN
-Project elaborates comparision between VAE and DCGAN
+# Generative-Models-Comprehensive-Study
+
 
 #### NOTE
 This project is done as a part of course assignment for<br>
@@ -7,7 +7,7 @@ This project is done as a part of course assignment for<br>
  Instructor :  __Prof. Sunita Sarwagi__ at __IIT Bombay__
 
 ## Description
-The project aims at understanding the generative paradigms of deep learning specifically Variational Auto Encoders (VAEs) and Generative Adversarial Networks (GANs), by implementing these architectures from scratch, training them and performing a comparitive study.
+The project aims at understanding the generative paradigms of deep learning specifically DDPMs, Variational Auto Encoders (VAEs) and Generative Adversarial Networks (GANs), by implementing these architectures from scratch, training them and performing a comparitive study.
 
 #### Diffusion Model
 Diffusion models are generative models that create complex data by gradually transforming Gaussian noise into structured data. They consist of a forward process where noise is added to the data and a reverse process where the model learns to denoise and recover the original data. These models have been effective in generating high-quality images, audio, and other data types.
